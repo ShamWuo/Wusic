@@ -60,10 +60,10 @@ To reduce API costs and latency, the app implements a robust caching strategy fo
 
 ## 📸 Screenshots
 
-*(Place your app screenshots here)*
+*()*
 
-| Home Screen | Practice Mode | Analytics |
-|:---:|:---:|:---:|
-| ![Home](https://via.placeholder.com/200x400) | ![Practice](https://via.placeholder.com/200x400) | ![Stats](https://via.placeholder.com/200x400) |
+| Screen 1 | Screen 2 |
+|:---:|:---:|
+| ![Screen 1](images/IMG_3322%20(1).PNG) | ![Screen 2](images/IMG_3326%20(1).PNG) |
 
 ---

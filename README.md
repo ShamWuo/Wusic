@@ -62,6 +62,6 @@ To reduce API costs and latency, the app implements a robust caching strategy fo
 
 | Screen 1 | Screen 2 |
 |:---:|:---:|
-| ![Screen 1](images/IMG_3322%20(1).PNG) | ![Screen 2](images/IMG_3326%20(1).PNG) |
+| ![Page 2](images/Page2.PNG) | ![Piece Details](images/piecedetails.PNG) |
 
 ---
